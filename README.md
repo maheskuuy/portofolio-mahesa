@@ -2,7 +2,7 @@
 Sebuah portofolio developer 3D modern yang dibangun dengan React, React Three Fiber (Three.js), TailwindCSS, dan animasi halus — dirancang untuk menonjolkan keterampilan dan proyek secara interaktif.
 
 [Live Demo]: https://portfolio-seven-theta-92.vercel.app/ 
-[License] : https://img.shields.io/badge/license-MIT-blue
+[License] : ( https://img.shields.io/badge/license-MIT-blue )
 
 ## 📸 Screenshot
 > Tambahkan screenshot atau GIF di folder `public/assets` 
