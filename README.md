@@ -1,11 +1,13 @@
 # Portofolio Mahesa 🚀
 Sebuah portofolio developer 3D modern yang dibangun dengan React, React Three Fiber (Three.js), TailwindCSS, dan animasi halus — dirancang untuk menonjolkan keterampilan dan proyek secara interaktif.
 
-[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://your-deploy-url.example)  <!-- ganti dengan URL deploy jika ada -->
+[![Live Demo]( https://portfolio-seven-theta-92.vercel.app/ )  <!-- ganti dengan URL deploy jika ada -->
 [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE) <!-- ganti jika berbeda -->
 
 ## 📸 Screenshot
-> Tambahkan screenshot atau GIF di folder `public/assets` dan tautkan di sini untuk menampilkan halaman utama.
+> Tambahkan screenshot atau GIF di folder `public/assets` 
+<img width="1207" height="782" alt="Screen Shot 2025-12-29 at 2 51 13 PM" src="https://github.com/user-attachments/assets/980b7d04-b55f-477a-9f18-694824a9edce" />
+
 
 ---
 
@@ -112,9 +114,9 @@ Untuk issue & saran, silakan buka halaman Issues.
 ---
 
 ## 📬 Kontak
-- Instagram: @your_instagram (ganti)
-- LinkedIn: [Your Name](https://www.linkedin.com/in/your-linkedin) (ganti)
-- Email: your-email@example.com (ganti)
+- Instagram: https://www.instagram.com/mahezskuy/
+- LinkedIn: https://www.linkedin.com/in/mahesa-sura-arifianto-6123a5253/
+- Email: mahesasuraa.9@gmail.com
 
 ---
 
