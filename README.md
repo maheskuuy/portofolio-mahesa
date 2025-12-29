@@ -1,78 +1,136 @@
-# portofolio-mahesa🚀 3D Developer Portfolio
-A modern, animated 3D developer portfolio built with React, Three.js, TailwindCSS, and motion effects — designed to help you stand out and showcase your skills creatively.
+# Portofolio Mahesa 🚀
+Sebuah portofolio developer 3D modern yang dibangun dengan React, React Three Fiber (Three.js), TailwindCSS, dan animasi halus — dirancang untuk menonjolkan keterampilan dan proyek secara interaktif.
 
-3d Portfolio Screenshot GitHub
+[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://your-deploy-url.example)  <!-- ganti dengan URL deploy jika ada -->
+[![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE) <!-- ganti jika berbeda -->
 
-📚 Table of Contents
-Features
-Tech Stack
-Project Structure
-Getting Started
-Assets
-Contact Me
-Suggestions or Feedback
-Like This Project?
-✨ Features
-🔥 3D visuals powered by React Three Fiber and Drei
-⚡ Smooth transitions and scroll-based animations using Framer Motion
-🎨 Clean, responsive UI with TailwindCSS
-💌 Working contact form using EmailJS
-🧱 Beautiful UI enhancements with Aceternity UI and Magic UI
-🚀 Lightning-fast development with Vite
-🛠 Tech Stack
-Tech	Description
-React	Front-end JavaScript library
-Vite	Fast bundler and dev environment
-TailwindCSS	Utility-first CSS framework
-React Three Fiber	3D rendering with Three.js in React
-Drei	Helpers and abstractions for R3F
-Framer Motion	Animation library for React
-EmailJS	Form handling and email integration
-Aceternity UI	Custom UI components
-Magic UI	Prebuilt UI elements and design extras
-📁 Project Structure
+## 📸 Screenshot
+> Tambahkan screenshot atau GIF di folder `public/assets` dan tautkan di sini untuk menampilkan halaman utama.
+
+---
+
+## 📚 Daftar Isi
+- [Fitur](#-fitur)
+- [Teknologi](#-teknologi)
+- [Struktur Proyek](#-struktur-proyek)
+- [Mulai Cepat](#-mulai-cepat)
+- [Assets](#-assets)
+- [Kontribusi](#-kontribusi)
+- [Kontak](#-kontak)
+- [Lisensi](#-lisensi)
+
+---
+
+## ✨ Fitur
+- 3D visuals interaktif menggunakan React Three Fiber dan Drei
+- Transisi halus & animasi berbasis scroll dengan Framer Motion
+- UI responsif dan minimal memakai TailwindCSS
+- Form kontak bekerja via EmailJS (konfigurasi di .env)
+- Komponen UI tambahan dari Aceternity UI dan Magic UI
+- Pengembangan cepat dengan Vite
+
+---
+
+## 🛠️ Teknologi
+- React
+- Vite
+- TailwindCSS
+- React Three Fiber (Three.js)
+- @react-three/drei
+- Framer Motion
+- EmailJS
+- Aceternity UI, Magic UI
+
+---
+
+## 📁 Struktur Proyek (ringkasan)
+```
 ├── public/
-│   ├── assets/             # Images, textures, models
-│   ├── models/             # 3D Astronaut model
+│   ├── assets/        # Gambar, tekstur, model
+│   ├── models/        # Model 3D (misal: astronaut)
 │   └── vite.svg
 ├── src/
-│   ├── components/         # Reusable components
-│   ├── constants/          # Reusable datas
-│   ├── sections/           # Portfolio sections (Hero, About, etc.)
-│   ├── App.jsx             # Main app file
-│   ├── index.css           # Tailwind css
-│   └── main.jsx            # Entry point
+│   ├── components/    # Komponen yang dapat digunakan ulang
+│   ├── constants/     # Data konstan
+│   ├── sections/      # Bagian portofolio (Hero, About, dll.)
+│   ├── App.jsx
+│   ├── index.css
+│   └── main.jsx
 ├── tailwind.config.js
 └── vite.config.js
-🚀 Getting Started
-Clone the Repository
-git clone https://github.com/Ali-Sanati/Portfolio.git
-cd Portfolio
-Install Dependencies
+```
+
+---
+
+## 🚀 Mulai Cepat
+
+1. Clone repo (sudah diarahkan ke repo kamu):
+```bash
+git clone https://github.com/maheskuuy/portofolio-mahesa.git
+cd portofolio-mahesa
+```
+
+2. Install dependensi:
+```bash
 npm install
-Run the Development Server
+# atau
+pnpm install
+# atau
+yarn
+```
+
+3. Jalankan server development:
+```bash
 npm run dev
-The app will be available at http://localhost:5173.
+# lalu buka http://localhost:5173
+```
 
-🔗 Assets
-Assets used in the project can be found here
+4. Build untuk produksi:
+```bash
+npm run build
+```
 
-📬 Contact Me
-Instagram Static Badge LinkedIn
+Catatan: Jika menggunakan EmailJS atau layanan lain, buat file `.env` sesuai variabel yang diperlukan (contoh: EMAILJS_SERVICE_ID, EMAILJS_TEMPLATE_ID, EMAILJS_PUBLIC_KEY).
 
-💡 Suggestions or Feedback?
-Leave a comment on the YouTube video or open an issue here on GitHub.
-👉 What should I build next?
+---
 
-A beautiful Landing Page
+## 🔗 Assets
+Semua aset (gambar, model 3D, tekstur) disimpan di `public/assets` atau `public/models`. Pastikan lisensi aset yang digunakan sesuai sebelum dipublikasikan.
 
-A complete E-commerce site
+---
 
-A fun App Clone (YouTube, Netflix, etc.)
+## 🤝 Kontribusi
+Terima kasih sudah tertarik! Jika ingin kontribusi:
+1. Fork repo ini
+2. Buat branch fitur: `git checkout -b feat/nama-fitur`
+3. Commit perubahan: `git commit -m "feat: deskripsi singkat"`
+4. Push: `git push origin feat/nama-fitur`
+5. Buka Pull Request dan jelaskan perubahanmu.
 
-Or another interactive Portfolio
+Untuk issue & saran, silakan buka halaman Issues.
 
-Let me know!
+---
 
-⭐ Like This Project?
-Star the repo and subscribe to the YouTube channel for more dev content!
+## 📬 Kontak
+- Instagram: @your_instagram (ganti)
+- LinkedIn: [Your Name](https://www.linkedin.com/in/your-linkedin) (ganti)
+- Email: your-email@example.com (ganti)
+
+---
+
+## 💡 Ide Fitur Selanjutnya
+- Landing page interaktif tambahan
+- Demo e-commerce sederhana dengan 3D product view
+- Clone aplikasi populer (YouTube, Netflix) dengan elemen 3D
+
+---
+
+## ❤️ Jika Kamu Suka Proyek Ini
+- Beri bintang repo ⭐
+- Subscribe ke channel YouTube jika ada
+- Bagikan ke teman-dev
+
+---
+
+## 📜 Lisensi
+Project ini berlisensi di bawah MIT License — lihat file `LICENSE` untuk detail.
