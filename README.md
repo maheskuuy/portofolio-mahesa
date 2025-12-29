@@ -1,7 +1,7 @@
 # Portofolio Mahesa 🚀
 Sebuah portofolio developer 3D modern yang dibangun dengan React, React Three Fiber (Three.js), TailwindCSS, dan animasi halus — dirancang untuk menonjolkan keterampilan dan proyek secara interaktif.
 
-[![Live Demo]( https://portfolio-seven-theta-92.vercel.app/ )  <!-- ganti dengan URL deploy jika ada -->
+[Live Demo] https://portfolio-seven-theta-92.vercel.app/ 
 [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE) <!-- ganti jika berbeda -->
 
 ## 📸 Screenshot
